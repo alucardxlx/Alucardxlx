@@ -1,0 +1,136 @@
+0
+.
+patch\
+compassion.owo.com 8888
+0
+40% 80%
+patch.uo.com/cgi-bin/patchmsg.pl
+***************************************************************************
+ULTIMA ONLINE 
+
+  August 28, 2:37 PM CT (August 28, 7:37 PM UTC/GMT)
+
+  Current Version(s):            Latest Patch Size(s): 
+  - 2D Client: 4.0.0p            - 2D Client: 555k
+  - 3D Client: 4.0.0p            - 3D Client: 579k
+
+***************************************************************************
+
+CURRENT NEWS
+- We have released a client patch today, Thursday, August 28 CDT. For more
+  information, please see the "GAMEPLAY ADDITIONS / CHANGES" section below.
+
+- Ultima X: Odyssey! Origin Systems is proud to announce the development
+  of this brand new massively-multiplayer online game! Based on the
+  renowned Ultima single-player role-playing series, UXO will debut this
+  winter. For more information on this upcoming new game, please visit:
+
+  http://uxo.ea.com
+
+- Bring a Friend to Britannia and receive a free month of UO game time
+  and the +200 Luck Fortuity Necklace! Read the details at:
+
+  http://www.uo.com/buddy.html
+
+***************************************************************************
+
+KNOWN ISSUES
+
+- Blocked Treasure Locations: The non-blocking code in Publish 19 may
+  make it possible for houses to be placed over some treasure locations
+  once it is published to the live shards. We are aware of this concern
+  and will find a way to improve the situation for treasure hunters in UO
+  in the near future.
+
+- Brambles: A few brambles in Felucca will still cause a "rubberbanding"
+  effect until the next phase of fixing the non-blocking objects in a
+  future publish.
+
+- Juka Bows: Juka bows will have a "hidden" requirement of 80 strength
+  and 80 dexterity (in other words, the proper requirements are not being
+  displayed in the Item Properties Display). This will be fixed in a
+  future publish.
+
+***************************************************************************
+
+GAMEPLAY ADDITIONS / CHANGES
+== August 28, 2:37 PM CT (August 28, 7:37 PM UTC/GMT) ==
+
+We have released Client Patch 4.0.0p patch today which contains the
+following changes:
+
+2D Game Client Only
+
+- For users with partial installs, please be aware that now you will get
+  a message informing you that we will not support partial installs
+  beginning with Publish 21.
+
+3D Game Client Only 
+
+- The "permanent darkness" lighting bug was fixed in 3D -- let there be
+  light!
+- We have corrected visible black line "seams" with in-game art and text
+  garbling issues. As a result, 3D graphics will remain sharp when zooming
+  the camera in. Players may experience visual side effects of these
+  changes, but additional related fixes will be released as soon as
+  possible.
+- Some text wrapping issues in the 3D client were addressed.
+
+Both the 3D and 2D Game Client
+
+- Celebrate UO's new patcher software, now displaying HTML-enhanced
+  messages!
+  - Information about the new HTML patcher can be found at
+    http://update.uo.com/design_473.html
+  - The new patch message can be viewed with a normal web browser at
+    http://patch.uo.com/cgi-bin/patchmsg.pl?lang=ENU
+- Better communication with Customer Support is now possible, thanks to
+  the improved in-game Game Master text messaging system.
+  - Additional information on these changes can be found at
+    http://update.uo.com/design_475.html
+- Yay! Fixed the launcher bug that would occasionally cause uo.exe to
+  display an "already running" error.
+- Ping times reported on the shard selection screen are now more accurate.
+- Updated bulletin board art to enhance the vendor system.
+  - For more information about the Vendor Improvements, please visit
+    http://update.uo.com/design_439.html
+- Updated some localization files.
+
+***************************************************************************
+
+DID YOU KNOW...?
+
+If your foe dies behind a mountain and you can't see it to loot it, don't
+forget you can use an "all names" macro to see the name of the corpse.
+(You can create an "all names" macro in the Macro section of your Options
+menu.) You can then double-click the name to open it and grab your booty!
+
+***************************************************************************
+
+REMINDERS
+
+== Promotions & Special Services ==
+
+- Power-Up! your account with our advanced services! Visit us at 
+  http://www.uo.com/uopowerup.html to find out more about purchasing
+  additional accounts.
+
+- Get FREE Game Time in UO! Get all the details on our Buddy Program 
+  at: http://www.uo.com/buddy.html
+
+== Scam Prevention and Safety ==
+
+- Be sure to check out http://support.uo.com/scam.html for valuable tips
+  on ways to prevent being scammed out of goods or gold!
+
+- Please be sure to run frequent virus scans and change your account
+  password periodically to ensure the greatest amount of account security!
+
+- NEVER give out your UO account password. No one at OSI will ever ask
+  for your password...for ANY reason!
+
+== Can't Patch? ==
+
+- Try disabling your antivirus and internet security software before
+  proceeding. If you are still unable to patch, please see:  
+  http://www.uo.com/UO3d_readme.html
