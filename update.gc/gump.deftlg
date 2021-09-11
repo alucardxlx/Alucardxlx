@@ -1,0 +1,68 @@
+# This is currently only used for the paperdoll....
+# Format is: <ORIG BODY> {<NEW BODY>} <NEW HUE>
+
+# Note that you have to do more for wearables then weapons - specifically, you have to
+# add female and male defaults.  That's what the second batch that starts at 60,000 is.
+# Otherwise, when drawing a female pdoll wearable, it'll use male art.  
+# EX:
+# 50759	{50468}	0
+# 60759	{60468}	0
+
+
+#Arcane
+50759	{50468}	0
+50760	{50524}	0
+50761	{50469}	0
+50762	{50476}	0
+60759	{60468}	0
+60760	{60524}	0
+60761	{60469}	0
+60762	{60476}	0
+
+#Dragon
+# removed - added actual dragon armor in game
+#50680	{50527} 1249
+#50681	{50545} 1249
+#50682	{50928} 1249
+#50683	{50549} 1249
+#50679	{50528} 1249
+#60680	{60527} 1249
+#60681	{60545} 1249
+#60682	{60928} 1249
+#60683	{60549} 1249
+#60679	{60528} 1249
+
+
+
+# Leather Leggings
+50522 {50543} 0
+50524 {50545} 0
+60522 {60543} 0
+60524 {60545} 0
+
+#Begin AoS Stuff
+50930 {50624} 0
+50931 {50637} 0
+50932 {50642} 0
+50933 {50617} 0
+50933 {50639} 0
+50934 {50623} 0
+50938 {50649} 0
+50939 {50651} 0
+50940 {50643} 0
+50937 {50637} 0
+50935 {50639} 0
+
+# Publish 18 Japanese wearables
+50481 {50492} 0
+50482 {50477} 0
+50483 {50468} 0
+50484 {50455} 0
+50485 {50448} 0
+50486 {50909} 0
+60481 {60492} 35
+60482 {60477} 35
+60483 {60468} 35
+60484 {60455} 35
+60485 {60448} 35
+60486 {60909} 35
