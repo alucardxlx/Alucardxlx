@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到LiveUO在线更新页
 
-You can use the [editor on GitHub](https://github.com/alucardxlx/Alucardxlx/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+使用 [生存UO启动器](https://github.com/alucardxlx/Alucardxlx/Launcher.zip) 进行更新操作.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
